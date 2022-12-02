@@ -3,10 +3,10 @@
 - 🔭 Eu trabalho com Front-end
 - 🌱 Eu estou estudando React
  
-<div align="center">
+<div>
   <a href="https://github.com/rafaelnogueira98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnogueira98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnogueira98&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnogueira98&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
